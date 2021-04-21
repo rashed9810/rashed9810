@@ -1,5 +1,5 @@
-- 👋 Hi, I’m md. rashed miah
-- 👀 I’m interested in python,javascript, c++, java
+- 👋 Hi, I’m Md. Rashed Miah
+- 👀 I’m interested in python,javascript, c++, & java
 - 🌱 I’m currently learning python with  Machine learning
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me ...
