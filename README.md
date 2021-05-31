@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Rashed Miah
 - 👀 I’m interested in python,javascript, c++, & java
-- 🌱 I’m currently learning python with  Machine learning
+- 🌱Experienced Artificial Intelligence Researcher with a demonstrated history of working in the computer software industry. Skilled in Python, Deep Learning, Machine Learning, Data Science, Computer Vision, Data Analysis, and Image Processing
 - 📫 https://www.linkedin.com/in/rashed9810/
 - https://www.facebook.com/rashed.mahamud.10/
 - 
