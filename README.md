@@ -1,20 +1,20 @@
-<h1 align="center">Hi 👋, I'm Md. Rashed Miah</h1>
+<h1 align="center">Hi 👋, This is Md. Rashed Miah</h1>
 <h3 align="center">Artificial Intelligence Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed9810&label=Profile%20views&color=0e75b6&style=flat" alt="rashed9810" /> </p>
 
-- 🔭 I’m currently working on **Named Entity Recognition (NER) in Python with Spacy**
+- 🔭 I’m currently working on **Trainee Artficial Intelligence Engineer**
 
-- 🌱 I’m currently learning **Tensorflow Keras**
+- 🌱 I’m currently learning **Computer Vision, NLP, GANs, LLM**
 
-- 👯 I’m looking to collaborate on **Natural Language Processing (NLP)**
+- 👯 I’m looking to collaborate on **ML Research**
 
-- 💬 Ask me about **Tensorflow, Keras , OpenCV, Scipy, Numpy, Scikit-Learn, Pandas NLP,Linear Regression, Logistic Regression, CNN, RNN, LSTM, CTC, GAN, Encoder-decode**
+- 💬 Ask me about **ML, DL, LLM,  OpenCV, Scipy, Numpy, Scikit-Learn, Pandas, NLP, Linear Regression, Logistic Regression, CNN, RNN, LSTM, GAN, Encoder-decode**
 
-- 📫 How to reach me **rashed.cse.edu@gmail.com**
+- 📫 How to reach me **https://twitter.com/rashed_mahmud7**
 
-- ⚡ Fun fact **As an artificial intelligence engineer, I have the ability to teach machines how to learn, adapt, and make intelligent decisions. I am enabling computers to understand complex data, recognize patterns, and even mimic human-like behaviours through the creation of algorithms and models. I am at the cutting edge of technological advancement, pushing the limits of what machines can accomplish. Work contributes to the realization of artificial intelligence's full potential, transforming industries, increasing efficiency, and enhancing daily lives. It's an exciting and ever-changing field where innovative thinking and creativity meet cutting-edge technology.**
+- ⚡ Fun fact **As an artificial intelligence engineer, I have the ability to teach machines how to learn, adapt, and make intelligent decisions. I am enabling computers to understand complex data, recognize patterns, and even mimic human-like behaviors through the creation of algorithms and models. I am at the cutting edge of technological advancement, pushing the limits of what machines can accomplish. Work contributes to the realization of artificial intelligence's full potential, transforming industries, increasing efficiency, and enhancing daily lives. It's an exciting and ever-changing field where innovative thinking and creativity meet cutting-edge technology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,7 @@
 <a href="https://kaggle.com/mdrashedmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdrashedmiah" height="30" width="40" /></a>
 <a href="https://fb.com/rashedmahmud.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashedmahmud.10" height="30" width="40" /></a>
 <a href="https://instagram.com/rashed_mahmud7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashed_mahmud7" height="30" width="40" /></a>
-<a href="https://medium.com/@abumohammadrashed152830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abumohammadrashed152830" height="30" width="40" /></a>
+<a href="https://medium.com/@abumohammadrashed152830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@md-rashed-miah" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/elegant videography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elegant videography" height="30" width="40" /></a>
 </p>
 
