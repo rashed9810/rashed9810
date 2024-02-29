@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed9810&label=Profile%20views&color=0e75b6&style=flat" alt="rashed9810" /> </p>
 
-- 🔭 I’m currently working on **Trainee Artficial Intelligence Engineer**
+- 🔭 I’m currently working on **Software Engineer(AI)**
 
-- 🌱 I’m currently learning **Computer Vision, NLP, GANs, LLM**
+- 🌱 I’m currently learning **JS, Reactjs, NLP, LLM**
 
 - 👯 I’m looking to collaborate on **ML Research**
 
-- 💬 Ask me about **ML, DL, LLM,  OpenCV, Scipy, Numpy, Scikit-Learn, Pandas, NLP, Linear Regression, Logistic Regression, CNN, RNN, LSTM, GAN, Encoder-decode**
+- 💬 Ask me about **ML, DL, OpenCV, Scipy, Numpy, Scikit-Learn, Pandas, NLP, Linear Regression, Logistic Regression, CNN, RNN, LSTM, Encoder-decode, LLM, ReactJS**
 
 - 📫 How to reach me **https://twitter.com/rashed_mahmud7**
 
