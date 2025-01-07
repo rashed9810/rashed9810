@@ -1,37 +1,97 @@
-<h1 align="center">Hi 👋, This is Md. Rashed Miah</h1>
-<h3 align="center">Artificial Intelligence Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
 
+![People killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=People%20killed&query=$.gaza.killed.total&color=black)
+![Children killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Children%20killed&query=$.gaza.killed.children&color=black)
+![Women killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Women%20killed&query=$.gaza.killed.women&color=black)
+![Journalists killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Journalists%20killed&query=$.gaza.killed.press&color=black)
+
+# Hi there, I'm Md. Rashed Miah 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed9810&label=Profile%20views&color=0e75b6&style=flat" alt="rashed9810" /> </p>
 
-- 🔭 I’m currently working on **Software Engineer(AI)**
+I'm currently working as a **Software Engineer**. I completed my undergraduate degree in **Computer Science & Engineering**  from **IUBAT** in 2022.
 
-- 🌱 I’m currently learning **JS, Reactjs, NLP, LLM**
+- 🧩 I enjoy designing efficient solutions for complex algorithmic problems, building user-friendly applications, and contributing to impactful AI research.
+- 👩🏻‍💻 I am currently enhancing my skills in **Functional Programming**, **Distributed Systems Design**, and **Deep Learning**.
+- 🔬 I have been involved in research projects focusing on **Natural Language Processing** and **Biomedical Image Processing**, along with implementing AI-driven solutions for real-world applications.
+- 🛠️Collaborated in designing and developing modern, responsive web applications, implementing both frontend interfaces and backend services, and working on data-related projects such as annotation and Named Entity Recognition (NER).
+- 🌱 I’m currently learning **Go**
+- 📫 How to reach me > ***Feel free to reach out to me on [***linkedin***](https://www.linkedin.com/in/rashed9810/) or [***mail***](mailto:rashed.bcse.edu@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
+- ⚡ Fun fact **I enjoy solving complex problems with simple solutions. When I'm not coding, I love exploring new tech, learning new skills, and playing football.**
 
-- 👯 I’m looking to collaborate on **ML Research**
 
-- 💬 Ask me about **ML, DL, OpenCV, Scipy, Numpy, Scikit-Learn, Pandas, NLP, Linear Regression, Logistic Regression, CNN, RNN, LSTM, Encoder-decode, LLM, ReactJS**
+### Things you should know
 
-- 📫 How to reach me **https://twitter.com/rashed_mahmud7**
+- 🔭 <b>Currently working on:</b> React, Javascript, Frontend web, python, Backend development 
+- 🌱 <b>Getting better at:</b> TypeScript, Machine Learning and Deep Learning
+- 🤔 <b>Exploring:</b>  Clean Code, Reusability
+- ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code
+- 💬 <b>Ask me about:</b> Frontend web, Backend development, Machine Learning, and Deep Learning
 
-- ⚡ Fun fact **As an artificial intelligence engineer, I have the ability to teach machines how to learn, adapt, and make intelligent decisions. I am enabling computers to understand complex data, recognize patterns, and even mimic human-like behaviors through the creation of algorithms and models. I am at the cutting edge of technological advancement, pushing the limits of what machines can accomplish. Work contributes to the realization of artificial intelligence's full potential, transforming industries, increasing efficiency, and enhancing daily lives. It's an exciting and ever-changing field where innovative thinking and creativity meet cutting-edge technology.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rashed9810" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashed9810" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/md-rashed-miah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="md-rashed-miah" height="30" width="40" /></a>
-<a href="https://kaggle.com/mdrashedmiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdrashedmiah" height="30" width="40" /></a>
-<a href="https://fb.com/rashedmahmud.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashedmahmud.10" height="30" width="40" /></a>
-<a href="https://instagram.com/rashed_mahmud7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rashed_mahmud7" height="30" width="40" /></a>
-<a href="https://medium.com/@abumohammadrashed152830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@md-rashed-miah" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/elegant videography" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="elegant videography" height="30" width="40" /></a>
+
+### 🛠️ My Tech
+
+
+- **Languages -** 
+![JavaScript](https://img.shields.io/static/v1?&message=JavaScript&color=000000&logo=javascript&label=)
+![Python](https://img.shields.io/static/v1?&message=Python&color=176587&logo=python&logoColor=f5f589&label=&)
+![Go](https://img.shields.io/static/v1?&message=Go&color=264294&logo=Go&label=)
+![C++](https://img.shields.io/static/v1?&message=C%2B%2B&color=1e5aba&logo=C%2B%2B&label=&)
+![Java](https://img.shields.io/static/v1?&message=Java&color=c93618&logo=Java&label=)
+
+
+- **Frontend -**
+![React](https://img.shields.io/static/v1?&message=React&color=000000&logo=react&logoColor=66bced&label=)
+![Next.js](https://img.shields.io/static/v1?&message=Next.js&color=000000&logo=next.js&logoColor=FFFFFF&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?&message=Tailwind%20CSS&color=38B2AC&logo=tailwindcss&logoColor=FFFFFF&label=)
+![Bootstrap](https://img.shields.io/static/v1?&message=Bootstrap&color=5f0b7a&logo=bootstrap&logoColor=FFFFFF&label=)
+
+
+
+- **Backend -**
+![Node.js](https://img.shields.io/static/v1?&message=Node.js&color=339933&logo=node.js&logoColor=FFFFFF&label=)
+![Express.js](https://img.shields.io/static/v1?&message=Express.js&color=000000&logo=express&logoColor=FFFFFF&label=)
+![Django](https://img.shields.io/static/v1?&message=Django&color=2c4a37&logo=Django&label=)
+![MySQL](https://img.shields.io/static/v1?&message=MySQL&color=5699cc&logo=MySQL&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?&message=PostgreSQL&color=6566ba&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?&message=Postman&color=FF6F00&logo=postman&logoColor=FFFFFF&label=)
+
+
+- **Tools -**
+![Git](https://img.shields.io/static/v1?&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![Github](https://img.shields.io/static/v1?&message=Github&color=000000&logo=github&logoColor=FFFFFF&label=)
+![Docker](https://img.shields.io/static/v1?&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Bash](https://img.shields.io/static/v1?&message=Bash&color=000000&logo=powershell&logoColor=5cfc05&label=)
+![Linux](https://img.shields.io/static/v1?&message=Linux&color=000000&logo=linux&logoColor=f5ba3b&label=)
+![Microsoft Azure](https://img.shields.io/static/v1?&message=Microsoft%20Azure&color=2496ED&logo=microsoftazure&logoColor=FFFFFF&label=)
+![Azure Devops](https://img.shields.io/static/v1?&message=Azure%20Devops&color=0e6db5&logo=azuredevops&logoColor=FFFFFF&label=)
+
+
+- **Machine Learning -** 
+![PyTorch](https://img.shields.io/static/v1?&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![TensorFlow](https://img.shields.io/static/v1?&message=TensorFlow&color=FF6F00&logo=TensorFlow&logoColor=FFFFFF&label=)
+![Numpy](https://img.shields.io/static/v1?&message=Numpy&color=658cf0&logo=numpy&logoColor=FFFFFF&label=)
+![Pandas](https://img.shields.io/static/v1?&message=Pandas&color=0a2c82&logo=pandas&logoColor=FFFFFF&label=)
+![Matplotlib](https://img.shields.io/static/v1?&message=Matplotlib&color=0e5fa1&logo=plotly&logoColor=FF6F00&label=)
+
+
+## 📈 ***GitHub Stats***
+
+
+<p align="center">
+<a align="left" href="https://github.com/rashed9810">
+<img alt="rashed9810's Github Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=rashed9810&show_icons=true&count_private=true&theme=algolia&hide_border=true" /> </a>
+</p>
+<p align="center">
+<a href="https://github.com/rashed9810">
+<img alt="rashed9810's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashed9810&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=rashed9810&label=Profile%20Views&color=1&icon=8&pretty=true" />
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashed9810&show_icons=true&locale=en&layout=compact" alt="rashed9810" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashed9810&show_icons=true&locale=en" alt="rashed9810" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashed9810&" alt="rashed9810" /></p>
