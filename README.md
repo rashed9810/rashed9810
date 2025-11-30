@@ -121,7 +121,7 @@ I completed my undergraduate degree in **Computer Science & Engineering** from *
 -  Biomedical Image Processing
 -  Information Extraction & Named Entity Recognition (NER)
 -  Text Generation & Summarization
-- 🌐 Multilingual NLP
+-  Multilingual NLP
 
 
 
