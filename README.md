@@ -5,30 +5,58 @@
 ![Women killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Women%20killed&query=$.gaza.killed.women&color=black)
 ![Journalists killed](https://img.shields.io/badge/dynamic/json?url=https://data.techforpalestine.org/api/v3/summary.json&label=Journalists%20killed&query=$.gaza.killed.press&color=black)
 
-# Hi there, I'm Md. Rashed Miah 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashed9810&label=Profile%20views&color=0e75b6&style=flat" alt="rashed9810" /> </p>
+<!-- ============================ ANIMATED HEADER ============================ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093E9,50:00B4D8,100:80D0C7&height=210&section=header&text=Md.%20Rashed%20Miah&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI/ML%20Enthusiast%20%E2%80%A2%20Aspiring%20PhD%20Researcher&descSize=18&descAlignY=58" width="100%" alt="header"/>
+</div>
 
-🎓 **Software Engineer** | **AI/ML Enthusiast** | **Aspiring PhD Researcher**
+<!-- ============================ TYPING ANIMATION ============================ -->
+<div align="center">
+  <a href="https://github.com/rashed9810">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Rashed!+%F0%9F%91%8B;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%F0%9F%A7%A0;Building+AI-driven+solutions+for+real+problems+%F0%9F%9A%80;Exploring+Large+Language+Models+%F0%9F%A4%96;Actively+seeking+PhD+opportunities+%F0%9F%8E%93" alt="Typing SVG" />
+  </a>
+</div>
 
-I completed my undergraduate degree in **Computer Science & Engineering** from **IUBAT** in 2022. Currently transitioning towards **AI Engineering** and actively seeking **PhD opportunities** in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rashed9810&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <a href="https://www.linkedin.com/in/rashed9810/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rashed.bcse.edu@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 🧩 I enjoy designing efficient solutions for complex algorithmic problems, building user-friendly applications, and contributing to impactful AI research.
-- 👩🏻‍💻 I am currently enhancing my skills in **Functional Programming**, **Distributed Systems Design**, and **Deep Learning**.
-- 🔬 I have been involved in research projects focusing on **Natural Language Processing** and **Biomedical Image Processing**, along with implementing AI-driven solutions for real-world applications.
-- 🛠️ Collaborated in designing and developing modern, responsive web applications, implementing both frontend interfaces and backend services, and working on data-related projects such as annotation and Named Entity Recognition (NER).
-- 🌱 I'm currently learning **Go** and exploring **Large Language Models (LLMs)**
+<!-- Animated rainbow divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
+
+## 🚀 About Me
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation"/>
+
+🎓 I completed my undergraduate degree in **Computer Science & Engineering** from **IUBAT** in 2022. Currently transitioning towards **AI Engineering** and actively seeking **PhD opportunities** in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+
+- 🧩 I enjoy designing efficient solutions for complex algorithmic problems and building user-friendly applications
+- �🏻‍💻 Enhancing my skills in **Functional Programming**, **Distributed Systems Design**, and **Deep Learning**
+- 🔬 Research experience in **NLP** and **Biomedical Image Processing**, with AI-driven solutions for real-world applications
+- 🛠️ Built modern, responsive web apps (frontend + backend) and worked on data annotation & **Named Entity Recognition (NER)**
+- 🌱 Currently learning **Go** and exploring **Large Language Models (LLMs)**
 - 🎯 Actively seeking **PhD opportunities** in ML/DL/NLP
-- 📫 How to reach me > ***Feel free to reach out to me on [***LinkedIn***](https://www.linkedin.com/in/rashed9810/) or [***mail***](mailto:rashed.bcse.edu@gmail.com) if you have similar interests and want to discuss ideas or collaborate.***
-- ⚡ Fun fact **I enjoy solving complex problems with simple solutions. When I'm not coding, I love exploring new tech, learning new skills, and playing football.**
+- ⚡ Fun fact: **I enjoy solving complex problems with simple solutions. When I'm not coding, I love exploring new tech and playing football ⚽**
 
+<br clear="right"/>
 
-### Things you should know
+## 💡 Things You Should Know
 
-- 🔭 <b>Currently working on:</b> React, JavaScript, Frontend web, Python, Backend development, LLMs
-- 🌱 <b>Getting better at:</b> TypeScript, Machine Learning, Deep Learning, and NLP
-- 🤔 <b>Exploring:</b> Clean Code, Reusability, Transformer Architectures
-- ⚗️ <b>Experimenting on:</b> Improving the efficiency of my code and AI models
-- 💬 <b>Ask me about:</b> Frontend web, Backend development, Machine Learning, Deep Learning, and NLP
+<div align="center">
+
+| 🧭 | Focus |
+|:---:|:---|
+| 🔭 **Currently working on** | React, JavaScript, Frontend web, Python, Backend development, LLMs |
+| 🌱 **Getting better at** | TypeScript, Machine Learning, Deep Learning, and NLP |
+| 🤔 **Exploring** | Clean Code, Reusability, Transformer Architectures |
+| ⚗️ **Experimenting on** | Improving the efficiency of my code and AI models |
+| 💬 **Ask me about** | Frontend web, Backend development, ML, DL, and NLP |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 
 ### 🛠️ My Tech
