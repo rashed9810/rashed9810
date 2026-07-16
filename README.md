@@ -26,23 +26,23 @@
 <!-- Animated rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
-## 🚀 About Me
+##  About Me
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding animation"/>
 
-🎓 I completed my undergraduate degree in **Computer Science & Engineering** from **IUBAT** in 2022. Currently transitioning towards **AI Engineering** and actively seeking **PhD opportunities** in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+ I completed my undergraduate degree in **Computer Science & Engineering** from **IUBAT** in 2022. Currently transitioning towards **AI Engineering** and actively seeking **PhD opportunities** in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
 
-- 🧩 I enjoy designing efficient solutions for complex algorithmic problems and building user-friendly applications
-- �🏻‍💻 Enhancing my skills in **Functional Programming**, **Distributed Systems Design**, and **Deep Learning**
-- 🔬 Research experience in **NLP** and **Biomedical Image Processing**, with AI-driven solutions for real-world applications
-- 🛠️ Built modern, responsive web apps (frontend + backend) and worked on data annotation & **Named Entity Recognition (NER)**
-- 🌱 Currently learning **Go** and exploring **Large Language Models (LLMs)**
-- 🎯 Actively seeking **PhD opportunities** in ML/DL/NLP
-- ⚡ Fun fact: **I enjoy solving complex problems with simple solutions. When I'm not coding, I love exploring new tech and playing football ⚽**
+-  I enjoy designing efficient solutions for complex algorithmic problems and building user-friendly applications
+-  Enhancing my skills in **Functional Programming**, **Distributed Systems Design**, and **Deep Learning**
+-  Research experience in **NLP** and **Biomedical Image Processing**, with AI-driven solutions for real-world applications
+-  Built modern, responsive web apps (frontend + backend) and worked on data annotation & **Named Entity Recognition (NER)**
+-  Currently learning **Go** and exploring **Large Language Models (LLMs)**
+-  Actively seeking **PhD opportunities** in ML/DL/NLP
+-  Fun fact: **I enjoy solving complex problems with simple solutions. When I'm not coding, I love exploring new tech and playing football ⚽**
 
 <br clear="right"/>
 
-## 💡 Things You Should Know
+##  Things You Should Know
 
 <div align="center">
 
@@ -59,7 +59,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider"/>
 
 
-### 🛠️ My Tech
+###  My Tech
 
 
 - **Languages -**
@@ -141,16 +141,15 @@
 ![DVC](https://img.shields.io/static/v1?&message=DVC&color=945DD6&logo=dvc&logoColor=white&label=)
 
 
-### 🔬 Research Interests
+###  Research Interests
 
--  Natural Language Processing (NLP)
--  Large Language Models (LLMs) & Prompt Engineering
--  Deep Learning Architectures
--  Biomedical Image Processing
--  Information Extraction & Named Entity Recognition (NER)
--  Text Generation & Summarization
--  Multilingual NLP
-
+-  Large Language Models (LLMs) & Foundation Models
+- Natural Language Processing (NLP)
+- Trustworthy AI and LLM Reliability
+- Retrieval-Augmented Generation (RAG)
+- Hallucination Detection & Fact Verification
+- Multilingual and Low-Resource Language Processing
+- AI-Generated Text Detection & Benchmarking
 
 
 ## 📈 ***GitHub Stats***
